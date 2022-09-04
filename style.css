@@ -299,6 +299,9 @@ input[type="range"]::-moz-range-progress {
   height: 100%;
   border-radius: 5px;
 }
+.form-label {
+  display: none;
+}
 @media (min-width: 900px) {
   .heading h2 {
     font-size: 30px;
